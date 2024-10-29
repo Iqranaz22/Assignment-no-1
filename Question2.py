@@ -20,6 +20,6 @@ print("area of circle",3.14*10*10)
 
 #area=l*W
 l=20
-W=10
-area=l*W
+w=10
+area=l*w
 print("area of rectangle",20*10)
